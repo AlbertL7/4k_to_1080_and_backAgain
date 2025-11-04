@@ -4,8 +4,8 @@ Simple bash scripts to switch between 4K (HiDPI) and 1080p display settings in X
 
 ## Scripts
 
-- **`switch-to-4k.sh`** - Enables HiDPI scaling for 4K displays (2x scaling)
-- **`switch-to-1080p.sh`** - Reverts to standard 1080p display settings (1x scaling)
+- **`4k.sh`** - Enables HiDPI scaling for 4K displays (2x scaling)
+- **`1080p.sh`** - Reverts to standard 1080p display settings (1x scaling)
 
 ## What They Do
 
